@@ -19,4 +19,5 @@ public class TestBankAccount {
 		double amount = account.debit(11);
 		Assert.assertEquals(10.0, amount);
 	}
+	
 }
